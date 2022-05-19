@@ -4,12 +4,6 @@ title: من أنا
 permalink: /about/
 ---
 
-عرف عن نفسك، من أنت؟ وماذا تعمل؟
+### Cybersecurity girl
 
-### معلومات أخرى
-
-هل لديك معلومات أخرى تريد مشاركتها؟
-
-### لمراسلتي
-
-[email@domain.com](mailto:email@domain.com)
+[@Asalah_01](https://twitter.com/Asalah_01)
